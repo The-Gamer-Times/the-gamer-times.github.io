@@ -1,5 +1,11 @@
-.title {
-  text-align: center;
+body {
   font-family: sans-serif;
+  text-align: center;
+  color: white;
+  background-color: #1a1c1f
+}
 
+.newest {
+  display: grid;
+  place-items: center;
 }
