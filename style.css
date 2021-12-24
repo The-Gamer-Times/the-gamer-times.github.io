@@ -5,7 +5,16 @@ body {
   background-color: #1a1c1f
 }
 
-.newest {
+.newtweet {
   display: grid;
   place-items: center;
+}
+
+.articlebutton {
+  background-color: white;
+  text-align: center;
+  font-family: sans-serif;
+  border: none;
+  padding: 10px 25px;
+  cursor: pointer;
 }
